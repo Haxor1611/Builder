@@ -21,7 +21,8 @@ Just make sure to replace it here too. Otherwise it cant read and write to it.
 ------------
 
 
-####I plan on adding more features like: 
+###I plan on adding more features like: 
+
 - Reading and writing to existing exe files.
 - Adding functions to the stub.
 - Making the stub be created inside of the builder instead of an existing one.
