@@ -1,0 +1,7 @@
+E:\CodingStuff\CheatsProject\Builder\Stub\Stub\obj\Debug\Stub.csprojAssemblyReference.cache
+E:\CodingStuff\CheatsProject\Builder\Stub\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+E:\CodingStuff\CheatsProject\Builder\Stub\Stub\bin\Debug\Stub.exe.config
+E:\CodingStuff\CheatsProject\Builder\Stub\Stub\bin\Debug\Stub.exe
+E:\CodingStuff\CheatsProject\Builder\Stub\Stub\bin\Debug\Stub.pdb
+E:\CodingStuff\CheatsProject\Builder\Stub\Stub\obj\Debug\Stub.exe
+E:\CodingStuff\CheatsProject\Builder\Stub\Stub\obj\Debug\Stub.pdb

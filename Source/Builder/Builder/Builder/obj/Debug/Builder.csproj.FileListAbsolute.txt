@@ -1,0 +1,7 @@
+E:\CodingStuff\CheatsProject\Builder\Builder\Builder\Builder\bin\Debug\Builder.exe.config
+E:\CodingStuff\CheatsProject\Builder\Builder\Builder\Builder\bin\Debug\Builder.exe
+E:\CodingStuff\CheatsProject\Builder\Builder\Builder\Builder\bin\Debug\Builder.pdb
+E:\CodingStuff\CheatsProject\Builder\Builder\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+E:\CodingStuff\CheatsProject\Builder\Builder\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+E:\CodingStuff\CheatsProject\Builder\Builder\Builder\Builder\obj\Debug\Builder.exe
+E:\CodingStuff\CheatsProject\Builder\Builder\Builder\Builder\obj\Debug\Builder.pdb
