@@ -17,6 +17,7 @@ Just make sure to replace it here too. Otherwise it cant read and write to it.
 
 
 >This can be used to also edit existing exes.
+
 ###I plan on adding more features like: 
 -#### Reading and writing to existing exe files.
 -#### Adding functions to the stub.
