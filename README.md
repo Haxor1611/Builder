@@ -17,3 +17,7 @@ Just make sure to replace it here too. Otherwise it cant read and write to it.
 
 
 >This can be used to also edit existing exes.
+###I plan on adding more features like: 
+-#### Reading and writing to existing exe files.
+-#### Adding functions to the stub.
+-#### Making the stub be created inside of the builder instead of an existing one.
